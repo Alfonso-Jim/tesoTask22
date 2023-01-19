@@ -6,7 +6,7 @@
   ### Interesting things 💻👾
   - The project is deployed [here](https://stupendous-baklava-969b08.netlify.app/), make sure to check it out. This is a build version of the project 😉 thanks to babel and webpack.
   - if you want to run the project locally clone it and run npm i and then npm start.
-  - Let me know if you can find any other features/things that you find in the app that you found interesting.
+  - Let me know if you can find any other features/things that you found interesting.
   - If the requests are too fast you can use the redux chrome extension to control the states of the store.
   - This project was built with Redux Toolkit! further info (about languages) on the repository page.
   - This is an SPA app that handles navigation with react-router-dom.
