@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+@font-face {
+  font-family: 'Gordita';
+  src: url('../public/Gordita-Medium.otf');
+  font-weight: 500;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-lg: 40px;
+  --font-size-xl: 44px;
+
+  /* Colors */
+  --color-black: #000;
+  --text-white: #fff;
+  --color-indigo: #093c90;
+  --color-green: #21d35d;
+  --color-gray-100: #4a90e2;
+  --color-gray-200: #565378;
+  --color-violet: #9492f4;
+
+  /* Gaps */
+  --gap-md: 32px;
+  --gap-lg: 42px
+
+  /* Paddings */
+  --padding-xs: 10px;
+  --padding-sm: 12px;
+  --padding-md: 24px;
+  --padding-lg: 32px;
+
+  /* border radiuses */
+  --br-md: 10px;
+}
